@@ -15,6 +15,12 @@
    <img align="center"  alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img align="center"  alt="node-js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonakaidev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
