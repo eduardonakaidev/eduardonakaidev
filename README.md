@@ -2,7 +2,7 @@
 ### Olá! Eu sou Eduardo Nakai ,tenho 20 anos e estou cursando analise e desenvolvimento de sistemas ,desenvolvedor web back-end
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_nakai/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-issao-nakai-frasson-0b2657232/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eduardo-issao-nakai-frasson-0b2657232/](https://www.linkedin.com/in/eduardo-nakai-0b2657232/))
 
 ![Eduardo Nakai GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardonakaidev&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardonakaidev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
