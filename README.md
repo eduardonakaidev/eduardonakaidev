@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Eduardo Nakai ,tenho 20 anos e estou cursando analise e desenvolvimento de sistemas ,desenvolvedor web back-end
+### Systems analyst working since 2021, currently studying the last year of the systems analysis and development course. Experience in front-end and back-end projects, participating in all phases of the software life cycle. He has skills and I'm looking for opportunities in the area of ​​technology and innovation.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_nakai/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-nakai-0b2657232/)
