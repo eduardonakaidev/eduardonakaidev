@@ -1,5 +1,5 @@
 
-###I’ve been working with software development since 2021 and I'm currently in my final year of a degree in Systems Analysis and Development. I have hands-on experience in full stack projects, with a strong focus on back-end development, actively participating in all stages of the software lifecycle — from architecture and design to testing, deployment, and monitoring.
+### I’ve been working with software development since 2021 and I'm currently in my final year of a degree in Systems Analysis and Development. I have hands-on experience in full stack projects, with a strong focus on back-end development, actively participating in all stages of the software lifecycle — from architecture and design to testing, deployment, and monitoring.
 
 I work primarily with Golang, Node.js, and Java, using frameworks such as Gin, Fastify, and NestJS. I follow best practices like Domain-Driven Design (DDD), Hexagonal Architecture, and Event-Driven Architecture (EDA), while applying proven design patterns to build clean, decoupled, and maintainable systems.
 
